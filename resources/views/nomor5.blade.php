@@ -7,6 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-    <p>dyl</p>
+    <p>Version Control System Merupakan Suatu paket software dimana ketika kita meninisialisasi, VCS akan memonitor file kita untuk setiap perubahan dan mengizinkan kita untuk menandai perubahan tersebut pada setiap level perubahan , Sehingga kita dapat meninjau ulang tahapan yang ditandai kapan pun ketika dibutuhkan .</p>
+    <p>Mercurial
+Monotone
+Bazaar
+TFS
+VSTS
+Perforce Helix Core
+IBM Rational ClearCase</p>
 </body>
 </html>
